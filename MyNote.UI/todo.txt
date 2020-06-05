@@ -1,0 +1,6 @@
+﻿== TODOS ==
+
+register başarı / hata mesaj göster
+$watch sekme değişince formları ve hata mesajları temizle
+
+login ..
