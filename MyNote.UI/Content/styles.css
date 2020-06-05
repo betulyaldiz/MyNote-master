@@ -11,10 +11,10 @@
     display: none;
 }
 
-.message ul {
-    margin-bottom: 0;
-    padding-left: 1rem;
-}
+    .message ul {
+        margin-bottom: 0;
+        padding-left: 1rem;
+    }
 
 .loading {
     position: fixed;
@@ -30,7 +30,5 @@
     .loading > div {
         margin: auto;
     }
-
-.login-tabs-container {
-    margin-top: -40px;
+body {
 }
